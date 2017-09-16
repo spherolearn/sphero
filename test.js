@@ -18,6 +18,7 @@ async function startProgram() {
         await delay(wordLength);
         speak('The answer is:' + ans);
         await delay(wordLength);
+//  this is a test from Atom on Chrome xfce
 
 
 
