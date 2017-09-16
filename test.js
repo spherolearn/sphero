@@ -20,6 +20,7 @@ async function startProgram() {
         await delay(wordLength);
 
 
+
         //varFirstLetter =
         speak('Here is a hint, The word starts with the letter: ' + ans.substring(0, 1) + hint)
         // Put the other hand here
