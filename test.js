@@ -1,6 +1,8 @@
 async function startProgram() {
         // Write code here
 
+
+//  test from Chromebox XSFC using atom built it git
         speak('throw the ball in the air to hear that scrambled word, collide with the ball to hear the solution');
         await delay(8);
         var word = "JAMES";
