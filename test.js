@@ -2,6 +2,9 @@ async function startProgram() {
         // Write code here
 
 
+// this is fom CHROME OS site from Caret -= see if atom picks
+// up on XSFC site,
+
 //  test from Chromebox XSFC using atom built it git
         speak('throw the ball in the air to hear that scrambled word, collide with the ball to hear the solution');
         await delay(8);
